@@ -1,0 +1,6 @@
+{
+   "imports": {
+      "crypto": "https://dev.jspm.io/crypto-browserify",
+      "exports": "https://dev.jspm.io/exports"
+   }
+}
